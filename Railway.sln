@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Railway", "Railway\Railway.csproj", "{4486F151-0D7C-46AD-BE64-27DB8E1F4210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem", "Problem\Problem.csproj", "{D7264197-6821-49B7-840B-D61892C008EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4486F151-0D7C-46AD-BE64-27DB8E1F4210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4486F151-0D7C-46AD-BE64-27DB8E1F4210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4486F151-0D7C-46AD-BE64-27DB8E1F4210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4486F151-0D7C-46AD-BE64-27DB8E1F4210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7264197-6821-49B7-840B-D61892C008EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7264197-6821-49B7-840B-D61892C008EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7264197-6821-49B7-840B-D61892C008EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7264197-6821-49B7-840B-D61892C008EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD450E53-AB73-4FD3-BD59-54F9BEE391F3}
+	EndGlobalSection
+EndGlobal
